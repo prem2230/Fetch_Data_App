@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Simple React Data Fetching App
+#This is a simple React application that fetches data from a mock API and displays it based on user interactions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
